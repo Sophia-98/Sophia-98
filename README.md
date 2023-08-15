@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/sophia-panagiotaras/)">
+  <a href="https://www.linkedin.com/in/sophia-panagiotaras">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://sophiapanagiotaras.netlify.app/">
