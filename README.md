@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge" alt="Website"/>
   </a>
 </div>
- <img src="https://komarev.com/ghpvc/?username=Sophia-98&style=flat-square&color=blue" alt="" />
+ <img src="https://komarev.com/ghpvc/?username=Sophia-98&style=flat-square&color=orange" alt="" />
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
