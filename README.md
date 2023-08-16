@@ -29,9 +29,20 @@ I am an emerging Front-end developer <img src="https://media.giphy.com/media/WUl
 
 - :seedling: A budding developer, exploring different tools and languages. Also exploring tech blogging for my future projects and contributing to open source projects.
 
-- :chart_with_upwards_trend: Always striving to learn and experiment more. 
+- :chart_with_upwards_trend: Always striving to learn and experiment more.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sophia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-panagiotaras)
+- I’m currently working on [producto](https://github.com/ProductoWebApp/Producto)
+
+- 👨‍💻 All of my projects are available at [https://sophiapanagiotaras.netlify.app/](https://sophiapanagiotaras.netlify.app/)
+
+- :mailbox:How to reach me: 
+<a href="https://dev.to/sophia98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sophia98" height="30" width="40" /></a>
+<a href="https://medium.com/@sophiapanagiotaras31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sophiapanagiotaras31" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sophia-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sophia-98" height="30" width="30" /></a>
+<a href="https://codepen.io/sophia-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sophia-98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sophia panagiotaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sophia panagiotaras" height="30" width="40" /></a>
+
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -59,6 +70,7 @@ I am an emerging Front-end developer <img src="https://media.giphy.com/media/WUl
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="gimp" **alt="gimp" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="jira" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>
+     <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 
    
 </div>
@@ -68,7 +80,10 @@ I am an emerging Front-end developer <img src="https://media.giphy.com/media/WUl
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sophia-98&theme=radical&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophia-98&show_icons=true&locale=en&theme=radical" alt="sophia-98" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
