@@ -80,9 +80,11 @@ I am an emerging Front-end developer <img src="https://media.giphy.com/media/WUl
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sophia-98&theme=radical&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophia-98&show_icons=true&locale=en&theme=radical" alt="sophia-98" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sophia-98&show_icons=true&locale=en&theme=radical" alt="sophia-98" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophia-98&theme=radical" alt="sophia-98" /></a> </p>
 
 
 ---
