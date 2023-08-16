@@ -31,7 +31,7 @@ I am an emerging Front-end developer <img src="https://media.giphy.com/media/WUl
 
 - :chart_with_upwards_trend: Always striving to learn and experiment more.
 
-- I’m currently working on [producto](https://github.com/ProductoWebApp/Producto)
+- :globe_with_meridians: I’m currently working on [producto](https://github.com/ProductoWebApp/Producto)
 
 - 👨‍💻 All of my projects are available at [https://sophiapanagiotaras.netlify.app/](https://sophiapanagiotaras.netlify.app/)
 
