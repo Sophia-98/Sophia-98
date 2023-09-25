@@ -47,35 +47,26 @@ I am a self taught Front-end developer <img src="https://media.giphy.com/media/W
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://portal.thirdweb.com/assets/languages/supabase.png" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original-wordmark.svg" title="AWS" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" **alt="threejs" width="40" height="40"/>
-           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="canva " **alt="canva" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="gimp" **alt="gimp" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="jira" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" title="React.js" alt="React.js" height="40"/> </a>
+										<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.d4001a695e00eed983cd8e65e15caf92?rik=kwu%2bva%2bTMsopmQ&pid=ImgRaw&r=0" title="JavaScript" alt="JavaScript" height="40"/> </a>
+										<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/blog/images/programming-language1.png" title="python" alt="python" width="40" /></a>
+										<a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://www.vippng.com/png/full/398-3984434_c-language-circle.png" title="C" alt="C" height="40"/> </a>
+										<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" title="PostgreSQL"  alt="PostgreSQL" height="40"/></a>
+										<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" title="SQLite" alt="sqlite"  height="40"/> </a> 
+										<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/></a>
+										<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://www.theorie3.de/wp-content/uploads/2020/11/Threejs_Logo-1.png" title="three.js" alt="three.js"  height="40"/></a>
+										<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/></a>
+										<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://toppng.com/uploads/thumbnail/html5-logo-11609363747wq0xzr3xhm.png" title="HTML5" alt="HTML5" width="40" height="40"/></a>
+										<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"  title="CSS3" alt="CSS3" width="40" height="40"/></a>
+										<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/></a>
+										<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png" title="Redux" alt="redux" height="40"/> </a> 
+										<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.308a16d88daefd38eb305755fc4d9794?rik=lyk7Jar5CoiJ0g&riu=http%3a%2f%2fmicreiros.com%2fwp-content%2fuploads%2fbootstrap-logo.png&ehk=ZLEAhBc2o52t5YVbek3ZDZRjD6z99E0BeXAUhRbgBfY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" title="Bootstrap" **alt="Bootstrap"  height="40"/></a>
+										<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/> </a>
+										<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" height="40"/></a>
+										<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.4312c985f9f1fbc2f1fc5bae5d5bb953?rik=2psUGPijvBpVdA&riu=http%3a%2f%2fwww.techieapps.com%2fwp-content%2fuploads%2f2014%2f09%2flinux-logo-600x300.png&ehk=PNBxR502pXjeTTJOAIFJkV3OYuXIQ1aVWO0EP6PNsNo%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" title="linux" **alt="linux"  height="40"/></a>
+										<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.67c40fbaff1933553802a18beeb9ac8d?rik=Ilw9DFdVC%2fv6%2bA&pid=ImgRaw&r=0" title="figma" alt="figma" height="40"/></a>
+					
+										
 
    
 </div>
