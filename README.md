@@ -80,7 +80,7 @@ I am a self taught Front-end developer <img src="https://media.giphy.com/media/W
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/Sophia-98/github-profile-trophy) </p>
+
 
 
 ---
