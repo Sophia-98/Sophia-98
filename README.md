@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-I am an emerging Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a Design and Marketing background  from London, UK.
+I am a self taught Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a Design and Marketing background  from London, UK.
 
 - :telescope: I am currently working as a Digital Marketing Executive, whilst also focusing on Web Development projects in my spare time to cultivate my skillset. Main languages are: **Javascript, React, Python, SQL and C**.
 
